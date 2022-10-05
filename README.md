@@ -8,7 +8,7 @@ At the current moment I am working with a group of other talented developers on 
 
 ### Call Me Beep Me IF You Want To Reach Me 📲: <img src="./images/callme.jpg" height="150" width="150" align="left"> 
 -Check out my current projects on my <a href="https://jorgegarit.github.io/Portfolio/">Developer Portfolio</a>📂</br>
--Stay up to date on <a href="https://www.linkedin.com/in/jorgegarit/">LinkedIn</a>📖
+-Stay up to date on <a href="https://www.linkedin.com/in/jorgegarit/">LinkedIn</a>📖</br>
 -See who Jorge is on <a href="https://www.instagram.com/jorge.garit/?hl=en">Instagram</a>🖼️
 
 
