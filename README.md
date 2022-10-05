@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello I am Jorge 🥸
+
+<img src="./images/banner.jpg" alt= "banner that syays Jorge Garit - Full stack developer, avid reader, and amateur LEGO builder">
 
 <!--
 **jorgegarit/jorgegarit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
