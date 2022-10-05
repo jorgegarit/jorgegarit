@@ -1,4 +1,4 @@
-# Hello I'm Jorge 🥸 🖥️
+## Hello I'm Jorge 🥸 🖥️
 
 <img src="./images/banner.jpg" alt= "banner that syays Jorge Garit - Full stack developer, avid reader, and amateur LEGO builder">
 
