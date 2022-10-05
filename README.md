@@ -7,7 +7,7 @@ I am a full stack web developer who is just starting his journey into the exciti
 At the current moment I am working with a group of other talented developers on a privacy first photo jounaling application called <a href="https://salty-forest-28898.herokuapp.com/login" target="_blank">Journify</a> 
 
 ### Call me beep me if you want to reach me 
-<img src="./images/callme.jpg height="150" width="150">
+<img src="./images/callme.jpg" height="150" width="150">
 
 
 <!--
