@@ -1,6 +1,6 @@
 ## Hello I'm Jorge 🥸 🖥️
 
-<img src="./images/banner.jpg" alt= "banner that syays Jorge Garit - Full stack developer, avid reader, and amateur LEGO builder" width="100%" height="500">
+<img src="./images/banner.jpg" alt= "banner that syays Jorge Garit - Full stack developer, avid reader, and amateur LEGO builder" width="100%" height="250">
 
 <!--
 **jorgegarit/jorgegarit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
